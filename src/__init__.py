@@ -1,0 +1,1 @@
+"""Package principal du moteur de recherche multimodal d'images avec CLIP et FAISS."""
